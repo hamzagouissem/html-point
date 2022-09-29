@@ -1,0 +1,18 @@
+body{
+    color:blue;
+    background:grey;
+    font:italic 12px sans-serif;
+    background-image: url("photos-populaire.htm");
+}
+p{
+    color: red;
+}
+#hhh {
+    color: green;
+}
+.daddd {
+    color:yellow;
+}
+ul em{ 
+    color:blueviolet
+}
